@@ -9,3 +9,6 @@ Internal implementation of:
 * !n (execute nth command in history)
 * help
 * exit
+
+All other commands are forked over to internal shell.
+Compile with "make".
